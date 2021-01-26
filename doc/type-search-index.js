@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"com.company","l":"allSectionValid"},{"p":"com.company","l":"findSolution"},{"p":"com.company","l":"is_valid_column"},{"p":"com.company","l":"isGridValid"},{"p":"com.company","l":"lineIsValid"},{"p":"com.company","l":"Main"},{"p":"com.company","l":"printBoard"}];updateSearchResults();
